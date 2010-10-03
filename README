@@ -1,0 +1,38 @@
+
+
+== Welcome to Razor
+
+== A quick start template for designers building HTML 5 websites with Ruby on Rails, combined with Compass, Haml/Sass and html5boilerplate.
+
+
+In the package:
+
+
+RUBY ON RAILS 3.0.0
+
+Often shortened to Rails or RoR, is an open source web application framework for the Ruby programming language. It is intended to be used with an Agile development methodology that is used by web developers for rapid development.
+http://rubyonrails.org/
+
+
+COMPASS 0.10.5
+
+Compass is a Stylesheet Authoring Environment that makes your website design simpler to implement and easier to maintain.
+http://compass-style.org
+
+
+HAML/SASS 3.0.18
+
+Haml is the next step in generating views in your Rails application. Haml is a refreshing take that is meant to free us from the shitty templating languages we have gotten used to. It's based on one primary principle. Markup should be beautiful.
+http://haml-lang.com/
+
+
+HTML5-BOILERPLATE 0.2.2
+
+HTML5 Boilerplate is the professional badass's base HTML/CSS/JS template for a fast, robust and future-proof site.
+http://html5boilerplate.com/
+
+
+MODERNIZR
+
+Modernizr adds classes to the <html> element which allow you to target specific browser functionality in your stylesheet. You don't actually need to write any Javascript to use it.
+http://www.modernizr.com/
